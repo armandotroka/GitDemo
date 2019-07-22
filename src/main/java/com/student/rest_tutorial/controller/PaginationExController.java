@@ -1,7 +1,7 @@
 package com.student.rest_tutorial.controller;
 
 import com.student.rest_tutorial.models.Dogs;
-import com.student.rest_tutorial.models.Pets;
+import com.student.rest_tutorial.models.Pets; 
 import com.student.rest_tutorial.service.PaginationExService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

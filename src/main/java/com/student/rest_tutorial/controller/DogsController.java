@@ -1,6 +1,6 @@
 package com.student.rest_tutorial.controller;
 
-import com.student.rest_tutorial.models.Dogs;
+import com.student.rest_tutorial.models.Dogs; 
 import com.student.rest_tutorial.repository.DogsRepository;
 import com.student.rest_tutorial.service.DogService;
 
